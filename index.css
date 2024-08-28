@@ -1,0 +1,172 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: 0%;
+}
+/* 
+.flex-conteaner{
+    display: flex;
+    background-color: dodgerblue;
+
+}
+.flex-conteaner div {
+    background-color: red;
+    padding: 20px;
+    margin: 20px;
+    font-size: 30px;
+} */
+
+
+
+
+
+/* 1 flex-direction elementlarimizni qanday 
+yonalishda joylawiwini belgilaydi   */
+
+/* column - elementimizni vertikal joylaydi  */
+
+/* reverse - teskari qilib beradi  */
+
+
+/* .flex-conteaner{
+    display: flex;
+    background-color: dodgerblue;
+    flex-direction: row-reverse;
+
+} */
+/* .flex-conteaner div {
+    background-color: red;
+    padding: 20px;
+    margin: 20px;
+    font-size: 30px;
+} */
+
+
+
+
+
+
+
+
+/* 2.flex - wrap */
+/* 
+.flex-conteaner{
+    display: flex;
+    background-color: dodgerblue;
+    flex-wrap: wrap;
+    justify-content: center;
+
+
+}
+
+.flex-conteaner div {
+    background-color: red;
+    padding: 20px;
+    font-size: 30px;
+    margin: 20px;
+    text-align: center;
+} */
+
+
+
+
+
+
+/* 3 flex - flow   - flex-direction va flex-wrapni bitta 
+qilib yozadi  */
+
+/* .flex-conteaner{
+    display: flex;
+    background-color: dodgerblue;
+    flex-wrap: wrap;
+    justify-content: center;
+
+
+}
+
+/* 
+.flex-conteaner div {
+    background-color: red;
+    padding: 20px;
+    font-size: 30px;
+    margin: 20px;
+    width: 200px;
+    height: 80px;
+    text-align: center;
+} 
+    */
+
+
+
+/* justifiy-conteaner - gorizantal joylawiwini belgilaydi  */
+
+    /* .flex-conteaner{
+        display: flex;
+        background-color: dodgerblue;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    
+    
+    }
+    
+    .flex-conteaner div {
+        background-color: red;
+        padding: 20px;
+        font-size: 30px;
+        margin: 20px;
+        width: 200px;
+        height: 80px;
+        text-align: center;
+    } */
+
+
+
+
+
+    /* Align-items - vertikal joylawiwini belgilaydi */
+/* 
+    .flex-conteaner{
+        display: flex;
+        background-color: dodgerblue;
+        flex-wrap: wrap;
+        height: 300px;
+        align-items: flex-end;
+    
+    
+    }
+    
+    .flex-conteaner div {
+        background-color: red;
+        font-size: 30px;
+        margin: 20px;
+        width: 200px;
+        height: 50px;
+        text-align: center;
+    } */
+
+
+
+
+    /* Align-content - o'q bo'ylab joylawiwini korsatib beradi  */
+
+    
+    .flex-conteaner{
+        
+        background-color: dodgerblue;
+        flex-wrap: wrap;
+        height: 600px;
+        align-content: center;
+    
+    
+    }
+    
+    .flex-conteaner div {
+        background-color: red;
+        font-size: 30px;
+        margin: 20px;
+        width: 200px;
+        height: 50px;
+        text-align: center;
+        font-size: 30px;
+    }
+

@@ -1,0 +1,52 @@
+*{
+    padding-left: 0%;
+    margin: 0%;
+    box-sizing: 0%;
+}
+.banner-logo{
+    display: flex;
+    gap: 40px;
+    text-align: center;
+    align-items: center;
+}
+.img-logo{
+    margin-right: 100px;
+}
+.button {
+    margin-left: 200px;
+
+}
+.banner{
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    margin-left: 150px;
+    margin-top: 40px;
+}
+.container{
+    display: flex;
+    gap: 20px;
+}
+.container-2{
+    text-align: center;
+    margin-top: 100px;
+}
+.container-3{
+    text-align: center;
+    margin-top: 50px;
+}
+.box-1{
+    display: flex;
+    margin-top: 50px;
+    width: 80%;
+}
+.box-2{
+    display: flex;
+    gap: 80px;
+    margin-left: 100px;
+    margin-right: auto;
+}
+.wrapper{
+    text-align: center;
+    margin-top: 30px;
+}
